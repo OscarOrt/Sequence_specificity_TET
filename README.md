@@ -4,13 +4,13 @@ Analysis code for the Pronounced sequence specificity of TET enzymes project
 
 This repository is intended to provide the code used for the bioinformatic analysis for the project Pronounced sequence specificity of TET enzymes.
 
-The code is implemented in Python (v.)and R (v3.4.4) and used the following libraries :
+The code is implemented in Python (v.) and R (v3.4.4) and used the following libraries :
+
 Python
 -
 R
 -
 
-Examples
 ##Components of the analysis
 
 - Grand plot
