@@ -11,7 +11,7 @@ Python
 R
 -
 
-##Components of the analysis
+## Components of the analysis
 
 - Grand plot
 Probes of 1 Mb through the zebrafish genome were created in SeqMonk (v1.43.0)to quantify overrepresentated regions thought the genome. This code plots the results obtained.
